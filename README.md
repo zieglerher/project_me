@@ -4,11 +4,12 @@ gmail: zieglerher@gmail.com
 
 skype: live:.cid.e9cf7938773ee58c
 
-slack: Golden Peaks
-
 telegram: @GoldenPeaks
 
 discord: GoldenPeaks
+
+slack: Golden Peaks
+
 
 #There is a problem to discuss, please contact me.
 
