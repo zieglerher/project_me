@@ -16,7 +16,7 @@
     
     discord: GoldenPeaks
     
-    slack: Golden Peaks
+    slack: GoldenPeaks
 
 #There is a problem to discuss, please contact me.
 
